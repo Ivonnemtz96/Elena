@@ -149,7 +149,8 @@
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth-brush"></i></span>
                     <h3><a href="service-details.html">Limpieza dental</a></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt sint unde sequi nisi possimus fugit.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt sint unde sequi nisi possimus
+                        fugit.</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -159,7 +160,8 @@
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth"></i></span>
                     <h3><a href="service-details.html">Endodoncia</a></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui, voluptatum! Reprehenderit quos ullam enim eligendi?.</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui, voluptatum! Reprehenderit quos
+                        ullam enim eligendi?.</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -169,7 +171,8 @@
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth-whitening"></i></span>
                     <h3><a href="service-details.html">Blanqueamiento dental</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequuntur quisquam deleniti aperiam soluta delectus?</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequuntur quisquam deleniti
+                        aperiam soluta delectus?</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -179,7 +182,8 @@
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-dental-care-1"></i></span>
                     <h3><a href="service-details.html">Solución dental completa</a></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate laudantium explicabo.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate
+                        laudantium explicabo.</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -189,7 +193,8 @@
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-dental-care"></i></span>
                     <h3><a href="service-details.html">Recisión dental</a></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate laudantium explicabo.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate
+                        laudantium explicabo.</p>
                 </div>
             </div>
         </div>
@@ -203,8 +208,8 @@
         <div class="row" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
             <div class="col-lg-6">
                 <div class="content-title style1">
-                    <span>How It Works</span>
-                    <h2>Take Care Of The Health And Well-Being Of You And Your Family</h2>
+                    <span>Cuidamos de tu sonrisa</span>
+                    <h2>Cuide su salud dental y la de su familia</h2>
                 </div>
             </div>
             <div class="col-xl-10">
@@ -212,19 +217,19 @@
                     <ul class="nav nav-tabs hw-tablist" role="tablist">
                         <li class="nav-item">
                             <button class="tab-link active" data-bs-toggle="tab" data-bs-target="#tab_1" type="button"
-                                role="tab"><i class="flaticon-dental-implant"></i> Dental Implants</button>
+                                role="tab"><i class="flaticon-dental-implant"></i> Implantes dentales</button>
                         </li>
                         <li class="nav-item">
                             <button class="tab-link" data-bs-toggle="tab" data-bs-target="#tab_2" type="button"
-                                role="tab"><i class="flaticon-tooth-whitening"></i> Teeth Whitening</button>
+                                role="tab"><i class="flaticon-tooth-whitening"></i> Blanqueamiento dental</button>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <button class="tab-link" data-bs-toggle="tab" data-bs-target="#tab_3" type="button"
-                                role="tab"><i class="flaticon-tooth-brush"></i> Brush Teeth</button>
-                        </li>
+                                role="tab"><i class="flaticon-tooth-brush"></i> Cepillado de dientes</button>
+                        </li> -->
                         <li class="nav-item">
                             <button class="tab-link" data-bs-toggle="tab" data-bs-target="#tab_4" type="button"
-                                role="tab"><i class="flaticon-dental-care"></i> Dental Care</button>
+                                role="tab"><i class="flaticon-dental-care"></i> Cuidado dental</button>
                         </li>
                     </ul>
                 </div>
@@ -232,34 +237,50 @@
             <div class="col-lg-6">
                 <div class="tab-content hw-tab-content">
                     <div class="tab-pane fade show active" id="tab_1" role="tabpanel">
-                        <h5>Dental Implants Repair And Teeth Services</h5>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a
-                            page when looking at its layout. The point of using Lorem Ipsum is that it has a moreor less
-                            normal distribution of letters, as opposed to using.</p>
+                        <h5>Servicios de reparación de implantes dentales y dientes</h5>
+                        <p>
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi dolore itaque repudiandae
+                            expedita odit quo commodi ipsum vel ex animi, quos blanditiis! Quidem nisi illo incidunt
+                            expedita libero, esse aperiam.
+                        </p>
                         <ul class="content-feature-list style4 list-style">
-                            <li><span><i class="ri-check-double-line"></i></span> Stop worrying, we will take care of
-                                your physical problems</li>
-                            <li><span><i class="ri-check-double-line"></i></span>Challenges with dental insurance can
-                                take valuable time</li>
-                            <li><span><i class="ri-check-double-line"></i></span>Dental insurance issues are the most
-                                important that dentists face</li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, corrupti.
+                            </li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, totam!
+                            </li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, sit.
+                            </li>
                         </ul>
                     </div>
                     <div class="tab-pane fade" id="tab_2" role="tabpanel">
-                        <h5>Teeth Whitening & Scalling</h5>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a
-                            page when looking at its layout. The point of using Lorem Ipsum is that it has a moreor less
-                            normal distribution of letters, as opposed to using.</p>
+                        <h5>Blanqueamiento dental y desincrustación</h5>
+                        <p>
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos sit in deleniti ratione nisi
+                            est facere repellendus architecto aut illum quasi cupiditate enim repudiandae nam, dolorum
+                            eum voluptatum repellat eos.
+                        </p>
                         <ul class="content-feature-list style4 list-style">
-                            <li><span><i class="ri-check-double-line"></i></span>Challenges with dental insurance can
-                                take valuable time</li>
-                            <li><span><i class="ri-check-double-line"></i></span> Stop worrying, we will take care of
-                                your physical problems</li>
-                            <li><span><i class="ri-check-double-line"></i></span>Dental insurance issues are the most
-                                important that dentists face</li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, corrupti.
+                            </li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, totam!
+                            </li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, sit.
+                            </li>
                         </ul>
                     </div>
-                    <div class="tab-pane fade" id="tab_3" role="tabpanel">
+                    <!-- <div class="tab-pane fade" id="tab_3" role="tabpanel">
                         <h5>Brush Teeth &amp; Root Canal</h5>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a
                             page when looking at its layout. The point of using Lorem Ipsum is that it has a moreor less
@@ -272,19 +293,27 @@
                             <li><span><i class="ri-check-double-line"></i></span>Dental insurance issues are the most
                                 important that dentists face</li>
                         </ul>
-                    </div>
+                    </div> -->
                     <div class="tab-pane fade" id="tab_4" role="tabpanel">
-                        <h5>Complete Dental Solution</h5>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a
-                            page when looking at its layout. The point of using Lorem Ipsum is that it has a moreor less
-                            normal distribution of letters, as opposed to using.</p>
+                        <h5>Cuidado dental</h5>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tenetur laudantium est
+                            reiciendis, iusto ipsam quidem, vel pariatur vitae consequuntur tempora fuga, sapiente vero.
+                            Impedit dolores numquam itaque quaerat architecto.
+                        </p>
                         <ul class="content-feature-list style4 list-style">
-                            <li><span><i class="ri-check-double-line"></i></span>Dental insurance issues are the most
-                                important that dentists face</li>
-                            <li><span><i class="ri-check-double-line"></i></span>Challenges with dental insurance can
-                                take valuable time</li>
-                            <li><span><i class="ri-check-double-line"></i></span> Stop worrying, we will take care of
-                                your physical problems</li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, corrupti.
+                            </li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, totam!
+                            </li>
+                            <li>
+                                <span><i class="ri-check-double-line"></i></span>
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, sit.
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -300,25 +329,25 @@
             <div class="col-lg-6" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="200">
                 <div class="book-appointment style1 bg-f">
                     <div class="overlay bg-prussian op-95"></div>
-                    <h5>Book An Online Appointment</h5>
+                    <h5>Agenda tu cita</h5>
                     <form action="#">
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-12">
                                 <div class="form-group">
-                                    <input type="text" placeholder="Full Name">
+                                    <input type="text" placeholder="Nombre completo">
                                 </div>
                             </div>
-                            <div class="col-lg-6">
+                            <div class="col-lg-12">
                                 <div class="form-group">
-                                    <input type="text" placeholder="Email Address">
+                                    <input type="text" placeholder="Correo">
                                 </div>
                             </div>
-                            <div class="col-lg-6">
+                            <div class="col-lg-12">
                                 <div class="form-group">
-                                    <input type="number" placeholder="Phone Number">
+                                    <input type="number" placeholder="Teléfono">
                                 </div>
                             </div>
-                            <div class="col-lg-6">
+                            <!-- <div class="col-lg-6">
                                 <div class="form-group">
                                     <input type="text" placeholder="Booking Date" onfocus="(this.type='date')"
                                         onblur="(this.type='text')">
@@ -350,14 +379,14 @@
                                         <option value="2">Florida</option>
                                     </select>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-lg-12">
                                 <div class="form-group">
-                                    <textarea name="msg" id="msg" cols="30" rows="10" placeholder="Message"></textarea>
+                                    <textarea name="msg" id="msg" cols="30" rows="10" placeholder="Mensaje"></textarea>
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button type="submit" class="btn style2">Book An Appointment</button>
+                                <button type="submit" class="btn style2">Agendar</button>
                             </div>
                         </div>
                     </form>
@@ -366,25 +395,33 @@
             <div class="col-lg-6" data-aos="fade-left" data-aos-duration="1200" data-aos-delay="200">
                 <div class="wh-content">
                     <div class="content-title style1">
-                        <span>Why Choose Us</span>
-                        <h2>A Short Story About A Medical Health Clinic In New York</h2>
+                        <span>¿Por qué elegirnos?</span>
+                        <h2>Un poco sobre nosotros</h2>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem has standard
                             dummy text ever since the 1500s, when an unknown.</p>
-                        <p>It is a long established fact that a reader will be distracted by the readable content when
-                            looking at its layout. The point of using Lorem Ipsum is that amet has a moreorless normal
-                            distribution of letters as opposed dolor.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo placeat commodi ad
+                            exercitationem! Commodi porro facilis quas enim? Molestias rerum eveniet eum ea vel facilis
+                            similique, fugit quidem animi adipisci.</p>
                     </div>
                     <ul class="content-feature-list style4 list-style mb-0">
-                        <li><span><i class="ri-check-double-line"></i></span> Kids will enjoy this little rabbit jumping
-                            together while walking</li>
-                        <li><span><i class="ri-check-double-line"></i></span>The hopping rabbit has a sweet mouth,
-                            flexible ears and real wooden wheels</li>
-                        <li><span><i class="ri-check-double-line"></i></span>The large blue rear wheel helps prevent
-                            tug-of-war from overtaking</li>
-                        <li><span><i class="ri-check-double-line"></i></span>Take advantage the agile structure to
-                            provide powerful summary for high-level</li>
-                        <li><span><i class="ri-check-double-line"></i></span>Repetitive approaches to corporate strategy
-                            encourage collaboration</li>
+                        <li>
+                            <span><i class="ri-check-double-line"></i></span>
+                            Ahorra tiempo y dinero con nuestras promociones
+                        </li>
+                        <li>
+                            <span><i class="ri-check-double-line"></i></span>T
+                            Materiales biocompatibles
+                        </li>
+                        <li>
+                            <span><i class="ri-check-double-line"></i></span>
+                            Información de los tratamientos
+                        </li>
+                        <li>
+                            <span><i class="ri-check-double-line"></i></span>
+                            Servicio profesional
+                        </li>
+                        <!-- <li><span><i class="ri-check-double-line"></i></span>Repetitive approaches to corporate strategy
+                            encourage collaboration</li> -->
                     </ul>
                 </div>
             </div>
@@ -611,9 +648,8 @@
             <div class="col-lg-6">
                 <div class="faq-content">
                     <div class="content-title style1">
-                        <span>People Also Ask</span>
-                        <h2>Frequently Asked Questions About The Patient For The Public
-                        </h2>
+                        <span>FAQs</span>
+                        <h2>Preguntas frecuentes de algunos clientes</h2>
                     </div>
                     <div class="accordion" id="accordionExample_one">
                         <div class="accordion-item">
@@ -624,16 +660,17 @@
                                         <i class="ri-add-line plus"></i>
                                         <i class="ri-subtract-line minus"></i>
                                     </span>
-                                    What medical expenses are not tax deductible?
+                                    Pregunta 1
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample_one">
                                 <div class="accordion-body">
                                     <div class="single-product-text">
-                                        <p>It is a long established fact that a reader will be distracted by the read
-                                            content of page when looking at its layout. The point of using Lorem Ipsum
-                                            is that it has a more-or-less no content here making it look like.</p>
+                                        <p>
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. A, neque ab ea
+                                            temporibus quis quibusdam debitis reprehenderit veniam quo at!
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -646,15 +683,16 @@
                                         <i class="ri-add-line plus"></i>
                                         <i class="ri-subtract-line minus"></i>
                                     </span>
-                                    Are dental expenses deductible 2022?
+                                    Pregunta 2
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse " aria-labelledby="headingTwo"
                                 data-bs-parent="#accordionExample_one">
                                 <div class="accordion-body">
-                                    <p>It is a long established fact that a reader will be distracted by the read
-                                        content of page when looking at its layout. The point of using Lorem Ipsum is
-                                        that it has a more-or-less no content here making it look like.</p>
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus odit,
+                                        asperiores aut modi reprehenderit molestias nobis ea ex tempore perferendis?
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -666,15 +704,16 @@
                                         <i class="ri-add-line plus"></i>
                                         <i class="ri-subtract-line minus"></i>
                                     </span>
-                                    What is the standard deduction for 2022 for over 65?
+                                    Pregunta 3
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse " aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample_one">
                                 <div class="accordion-body">
-                                    <p>It is a long established fact that a reader will be distracted by the read
-                                        content of page when looking at its layout. The point of using Lorem Ipsum is
-                                        that it has a more-or-less no content here making it look like.</p>
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae hic
+                                        veniam itaque ipsa qui, eveniet rem aliquid placeat excepturi!
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -686,15 +725,16 @@
                                         <i class="ri-add-line plus"></i>
                                         <i class="ri-subtract-line minus"></i>
                                     </span>
-                                    What qualifies as a qualified medical expense?
+                                    Pregunta 4
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse " aria-labelledby="headingFour"
                                 data-bs-parent="#accordionExample_one">
                                 <div class="accordion-body">
-                                    <p>It is a long established fact that a reader will be distracted by the read
-                                        content of page when looking at its layout. The point of using Lorem Ipsum is
-                                        that it has a more-or-less no content here making it look like.</p>
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid porro delectus
+                                        magni optio accusantium omnis et nostrum, vel natus! Dolorum.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -706,15 +746,16 @@
                                         <i class="ri-add-line plus"></i>
                                         <i class="ri-subtract-line minus"></i>
                                     </span>
-                                    How much can you deduct for dental expenses?
+                                    Pregunta 5
                                 </button>
                             </h2>
                             <div id="collapseFive" class="accordion-collapse collapse " aria-labelledby="headingFive"
                                 data-bs-parent="#accordionExample_one">
                                 <div class="accordion-body">
-                                    <p>It is a long established fact that a reader will be distracted by the read
-                                        content of page when looking at its layout. The point of using Lorem Ipsum is
-                                        that it has a more-or-less no content here making it look like.</p>
+                                    <p>
+                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum deserunt excepturi
+                                        aperiam error, adipisci commodi perspiciatis sed aut vitae facere.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -725,29 +766,89 @@
     </div>
 </section>
 
+<section id="blog" class="blog-wrap style1 pb-100">
+    <div class="container">
+        <div class="row section-margin">
+            <div class="col-lg-8 col-md-12">
+                <div class="section-title style1">
+                    <span>Galería</span>
+                    <h2>Nuestra Galería</h2>
+                </div>
+            </div>
+        </div>
+        <div class="blog-slider-one owl-carousel">
+            <div class="blog-card style1">
+                <div class="blog-img">
+                    <img src="assets/img/blog/blog-1.jpg" alt="Image">
+                </div>
+                <!-- <div class="blog-info">
+                    <h3><a href="blog-details.html">Whatever You Do, Make Sure It Makes You Happy</a></h3>
+                    <ul class="blog-metainfo  list-style">
+                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">22 Mar, 2022</a></li>
+                    </ul>
+                </div> -->
+            </div>
+            <div class="blog-card style1">
+                <div class="blog-img">
+                    <img src="assets/img/blog/blog-2.jpg" alt="Image">
+                </div>
+                <!-- <div class="blog-info">
+                    <h3><a href="blog-details.html">The Day I'd Spent At The Square Medical Facility</a></h3>
+                    <ul class="blog-metainfo  list-style">
+                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">01 Mar, 2022</a></li>
+                    </ul>
+                </div> -->
+            </div>
+            <div class="blog-card style1">
+                <div class="blog-img">
+                    <img src="assets/img/blog/blog-4.jpg" alt="Image">
+                </div>
+                <!-- <div class="blog-info">
+                    <h3><a href="blog-details.html">The Success Of Treatment Of Stroke Patients Raises</a></h3>
+                    <ul class="blog-metainfo  list-style">
+                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">15 Feb, 2022</a></li>
+                    </ul>
+                </div> -->
+            </div>
+            <div class="blog-card style1">
+                <div class="blog-img">
+                    <img src="assets/img/blog/blog-3.jpg" alt="Image">
+                </div>
+                <!-- <div class="blog-info">
+                    <h3><a href="blog-details.html">How Does Science Help In Dental Surgery Research</a></h3>
+                    <ul class="blog-metainfo  list-style">
+                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">17 Jan, 2022</a></li>
+                    </ul>
+                </div> -->
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 <section class="testimonial-wrap pb-100">
     <div class="container">
         <div class="row section-margin">
             <div class="col-lg-8">
                 <div class="section-title style1">
-                    <span>Testimonials</span>
-                    <h2>Read Our Medical Clinic Clients Reviews Discovered For You</h2>
+                    <span>Opiniones</span>
+                    <h2>¿Qué dicen nuestros clientes?</h2>
                 </div>
             </div>
         </div>
         <div class="testimonial-slider-one style1 owl-carousel">
             <div class="testimonial-card style1">
-                <p class="client-quote">“It is a long established fact that reader will be distract by readable content
-                    of a page wher looking at its layout. The point of using Lorm Ipsum is that it has.”</p>
+                <p class="client-quote">“Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi similique
+                    exercitationem distinctio voluptas sequi autem.”</p>
                 <div class="client-info-area">
                     <div class="client-info-wrap">
                         <div class="client-img">
                             <img src="assets/img/testimonials/client-1.jpg" alt="Image">
                         </div>
                         <div class="client-info">
-                            <h3>Jim Morison</h3>
-                            <span>Director, BAT</span>
+                            <h3>Cliente 1</h3>
+                            <!-- <span>Director, BAT</span> -->
                         </div>
                     </div>
                 </div>
@@ -756,16 +857,15 @@
                 </div>
             </div>
             <div class="testimonial-card style1">
-                <p class="client-quote">“It is a long established fact that reader will be distract by readable content
-                    of a page wher looking at its layout. The point of using Lorm Ipsum is that it has.”</p>
+                <p class="client-quote">“Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi similique
+                    exercitationem distinctio voluptas sequi autem.”</p>
                 <div class="client-info-area">
                     <div class="client-info-wrap">
                         <div class="client-img">
                             <img src="assets/img/testimonials/client-2.jpg" alt="Image">
                         </div>
                         <div class="client-info">
-                            <h3>Alex Cruis</h3>
-                            <span>CEO, IBAC</span>
+                            <h3>Cliente 2</h3>
                         </div>
                     </div>
                 </div>
@@ -774,16 +874,15 @@
                 </div>
             </div>
             <div class="testimonial-card style1">
-                <p class="client-quote">“It is a long established fact that reader will be distract by readable content
-                    of a page wher looking at its layout. The point of using Lorm Ipsum is that it has.”</p>
+                <p class="client-quote">“Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi similique
+                    exercitationem distinctio voluptas sequi autem.”</p>
                 <div class="client-info-area">
                     <div class="client-info-wrap">
                         <div class="client-img">
                             <img src="assets/img/testimonials/client-3.jpg" alt="Image">
                         </div>
                         <div class="client-info">
-                            <h3>Tom Haris</h3>
-                            <span>Engineer, Olleo</span>
+                            <h3>Cliente 3</h3>
                         </div>
                     </div>
                 </div>
@@ -792,31 +891,29 @@
                 </div>
             </div>
             <div class="testimonial-card style1">
-                <p class="client-quote">“It is a long established fact that reader will be distract by readable content
-                    of a page wher looking at its layout. The point of using Lorm Ipsum is that it has.”</p>
+                <p class="client-quote">“Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi similique
+                    exercitationem distinctio voluptas sequi autem.”</p>
                 <div class="client-info-area">
                     <div class="client-info-wrap">
                         <div class="client-img">
                             <img src="assets/img/testimonials/client-4.jpg" alt="Image">
                         </div>
                         <div class="client-info">
-                            <h3>Harry Jackson</h3>
-                            <span>Enterpreneur</span>
+                            <h3>Cliente 4</h3>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="testimonial-card style1">
-                <p class="client-quote">“It is a long established fact that reader will be distract by readable content
-                    of a page wher looking at its layout. The point of using Lorm Ipsum is that it has.”</p>
+                <p class="client-quote">“Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi similique
+                    exercitationem distinctio voluptas sequi autem.”</p>
                 <div class="client-info-area">
                     <div class="client-info-wrap">
                         <div class="client-img">
                             <img src="assets/img/testimonials/client-3.jpg" alt="Image">
                         </div>
                         <div class="client-info">
-                            <h3>Will Smith</h3>
-                            <span>Enterpreneur</span>
+                            <h3>Cliente 5</h3>
                         </div>
                     </div>
                 </div>
@@ -1060,119 +1157,58 @@
     </div>
 </section>
 
-
-<section id="blog" class="blog-wrap style1 pb-100">
-    <div class="container">
-        <div class="row section-margin">
-            <div class="col-lg-8 col-md-12">
-                <div class="section-title style1">
-                    <span>Blog &amp; News</span>
-                    <h2>Read Our Latest News & Articles</h2>
-                </div>
-            </div>
-        </div>
-        <div class="blog-slider-one owl-carousel">
-            <div class="blog-card style1">
-                <div class="blog-img">
-                    <img src="assets/img/blog/blog-1.jpg" alt="Image">
-                </div>
-                <div class="blog-info">
-                    <h3><a href="blog-details.html">Whatever You Do, Make Sure It Makes You Happy</a></h3>
-                    <ul class="blog-metainfo  list-style">
-                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">22 Mar, 2022</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="blog-card style1">
-                <div class="blog-img">
-                    <img src="assets/img/blog/blog-2.jpg" alt="Image">
-                </div>
-                <div class="blog-info">
-                    <h3><a href="blog-details.html">The Day I'd Spent At The Square Medical Facility</a></h3>
-                    <ul class="blog-metainfo  list-style">
-                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">01 Mar, 2022</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="blog-card style1">
-                <div class="blog-img">
-                    <img src="assets/img/blog/blog-4.jpg" alt="Image">
-                </div>
-                <div class="blog-info">
-                    <h3><a href="blog-details.html">The Success Of Treatment Of Stroke Patients Raises</a></h3>
-                    <ul class="blog-metainfo  list-style">
-                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">15 Feb, 2022</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="blog-card style1">
-                <div class="blog-img">
-                    <img src="assets/img/blog/blog-3.jpg" alt="Image">
-                </div>
-                <div class="blog-info">
-                    <h3><a href="blog-details.html">How Does Science Help In Dental Surgery Research</a></h3>
-                    <ul class="blog-metainfo  list-style">
-                        <li><i class="ri-calendar-event-fill"></i><a href="index.html">17 Jan, 2022</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
 <section id="contact" class="contact-wrap pb-100">
     <div class="container">
         <div class="row gx-5">
             <div class="col-lg-6">
                 <div class="contact-map">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8385385572983!2d144.95358331584498!3d-37.81725074201705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4dd5a05d97%3A0x3e64f855a564844d!2s121%20King%20St%2C%20Melbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2sbd!4v1612419490850!5m2!1sen!2sbd"></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1631.4800147504789!2d-109.70840880187576!3d23.090541487337518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1668631608262!5m2!1ses-419!2smx"></iframe>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="content-title style1 mb-20">
-                    <span>Keep In Touch With Us</span>
-                    <h2>Contact Information</h2>
+                    <span>¿Tienes alguna duda? Escríbenos</span>
+                    <h2>Información contacto</h2>
                 </div>
                 <form class="form-wrap" id="contactForm">
                     <div class="row">
                         <div class="col-lg-6 col-md-6">
                             <div class="form-group">
-                                <input type="text" name="name" placeholder="Full Name*" id="name" required
+                                <input type="text" name="name" placeholder="Nombre*" id="name" required
                                     data-error="Please enter your full name">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="form-group">
-                                <input type="email" name="email" id="email" required placeholder="Email*"
+                                <input type="email" name="email" id="email" required placeholder="Correo*"
                                     data-error="Please enter your email">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="form-group">
-                                <input type="text" name="phone_number" placeholder="Phone*" id="phone_number" required
+                                <input type="text" name="phone_number" placeholder="Teléfono*" id="phone_number" required
                                     data-error="Please enter your phone number">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="form-group">
-                                <input type="text" name="msg_subject" placeholder="Subject*" id="msg_subject" required
+                                <input type="text" name="msg_subject" placeholder="Servicio*" id="msg_subject" required
                                     data-error="Please enter your subject">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group v1">
-                                <textarea name="message" id="message" placeholder="Your Messages.." cols="30" rows="10"
+                                <textarea name="message" id="message" placeholder="Mensaje" cols="30" rows="10"
                                     required data-error="Please enter your message"></textarea>
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
-                        <div class="col-12">
+                        <!-- <div class="col-12">
                             <div class="form-group">
                                 <div class="form-check checkbox">
                                     <input name="gridCheck" value="I agree to the terms and privacy policy."
@@ -1185,9 +1221,9 @@
                                     <div class="help-block with-errors gridCheck-error"></div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-md-12">
-                            <button type="submit" class="btn style1">Send Message</button>
+                            <button type="submit" class="btn style1">Enviar</button>
                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                             <div class="clearfix"></div>
                         </div>
