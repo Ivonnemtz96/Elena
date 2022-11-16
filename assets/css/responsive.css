@@ -926,7 +926,7 @@
     font-size: 14px;
   }
   .pricing-table.style2:hover:before {
-    background-color: #002856;
+    background-color: #eeb8d3;
     opacity: 0.9;
   }
   .pricing-table.style2:hover .pricing-header-wrap {
@@ -957,7 +957,7 @@
     background-color: #FF375F;
   }
   .pricing-table.style2:hover .purchase-pricing .btn:after {
-    background-color: #002856;
+    background-color: #eeb8d3;
   }
   .pricing-table.style2 .pricing-header-wrap, .pricing-table.style4 .pricing-header-wrap {
     margin-bottom: 20px;
@@ -998,7 +998,7 @@
     background-color: #FF375F;
   }
   .pricing-table.style2:hover .purchase-pricing .btn:after, .pricing-table.style4:hover .purchase-pricing .btn:after {
-    background-color: #002856;
+    background-color: #eeb8d3;
   }
   .pricing-table.style8 .pricing-header {
     padding: 30px 10px 10px;

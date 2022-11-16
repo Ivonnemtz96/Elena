@@ -5,19 +5,20 @@
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6 col-md-9">
                         <div class="hero-content">
-                            <span>Welcome To Clean Teeth</span>
-                            <h1>Teeth Are An Important Part Of A Happy Life</h1>
-                            <p>Lorem ipsum dolor sit amet consectetuer adipiscing Phasellus hendrerit lorem dolor sit
-                                nibh nec urna. In nisi neque, aliquet vel dapibus id dolor sit amet standard dummy text
-                                ever since the when an unknown printer.</p>
+                            <span>DRA. GLORIA ELENA LOMELI</span>
+                            <h1>Viste tu mejor sonrisa todos los días.</h1>
+                            <p>
+                                En el consultorio de la Dra. Elena Lomeli nos importa tu salud bucal, la sonrisa es el
+                                alimento para el alma.
+                            </p>
                             <div class="hero-btn">
-                                <a href="#appointment" class="btn style2">Book An Appointment</a>
+                                <a href="#appointment" class="btn style2">Agendar una cita</a>
                                 <a class="watch-video" data-fancybox=""
                                     href="https://www.youtube.com/watch?v=DublqkOSBBA">
                                     <span class="play-btn">
                                         <i class="flaticon-play-1"></i>
                                     </span>
-                                    <span class="play-text">Watch Our Videos </span>
+                                    <span class="play-text">Ver video </span>
                                 </a>
                             </div>
                         </div>
@@ -30,19 +31,19 @@
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6 col-md-9">
                         <div class="hero-content">
-                            <span>Welcome To Clean Teeth</span>
-                            <h1>Love Your Teeth &amp; Work For It Until You Attain</h1>
-                            <p>Lorem ipsum dolor sit amet consectetuer adipiscing Phasellus hendrerit lorem dolor sit
-                                nibh nec urna. In nisi neque, aliquet vel dapibus id dolor sit amet standard dummy text
-                                ever since the when an unknown printer.</p>
+                            <span>DRA. GLORIA ELENA LOMELI</span>
+                            <h1>¡Blanquea tu sonrisa! No esperes más.</h1>
+                            <p>
+                                La sonrisa es la luz de la cara y la calefacción del corazón.
+                            </p>
                             <div class="hero-btn">
-                                <a href="#appointment" class="btn style2">Book An Appointment</a>
+                                <a href="#appointment" class="btn style2">Agendar cita</a>
                                 <a class="watch-video" data-fancybox=""
                                     href="https://www.youtube.com/watch?v=DublqkOSBBA">
                                     <span class="play-btn">
                                         <i class="flaticon-play-1"></i>
                                     </span>
-                                    <span class="play-text">Watch Our Videos </span>
+                                    <span class="play-text">Ver video</span>
                                 </a>
                             </div>
                         </div>
@@ -55,19 +56,17 @@
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6 col-md-9">
                         <div class="hero-content">
-                            <span>Welcome To Clean Teeth</span>
-                            <h1>You Will Hear Your Teeth Whatever You Say</h1>
-                            <p>Lorem ipsum dolor sit amet consectetuer adipiscing Phasellus hendrerit lorem dolor sit
-                                nibh nec urna. In nisi neque, aliquet vel dapibus id dolor sit amet standard dummy text
-                                ever since the when an unknown printer.</p>
+                            <span>DRA. GLORIA ELENA LOMELI</span>
+                            <h1>Tienes una cita conmigo.</h1>
+                            <p> Atte. Dra. Gloria Elena Lomeli</p>
                             <div class="hero-btn">
-                                <a href="#appointment" class="btn style2">Book An Appointment</a>
+                                <a href="#appointment" class="btn style2">Agendar cita</a>
                                 <a class="watch-video" data-fancybox=""
                                     href="https://www.youtube.com/watch?v=DublqkOSBBA">
                                     <span class="play-btn">
                                         <i class="flaticon-play-1"></i>
                                     </span>
-                                    <span class="play-text">Watch Our Videos </span>
+                                    <span class="play-text">Ver video</span>
                                 </a>
                             </div>
                         </div>
@@ -87,32 +86,43 @@
                     <img class="about-img-one" src="assets/img/about/about-img-1.jpg" alt="Image">
                     <img class="about-img-two" src="assets/img/about/about-img-2.jpg" alt="Image">
                     <div class="about-promo-text">
-                        <h5><span>30+</span> Years Of Experience</h5>
+                        <h5><span>5+</span> Años de experiencia</h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-left" data-aos-duration="1200" data-aos-delay="200">
                 <div class="about-content">
                     <div class="content-title style1">
-                        <span>Get To Know Us</span>
-                        <h2>We Have An Easy Solution For Your Dental Problems</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem has standard
-                            dummy text ever since the 1500s, when an unknown.</p>
-                        <p>It is a long established fact that a reader will be distracted by the readable content when
-                            looking at its layout. The point of using Lorem Ipsum is that amet has a moreorless normal
-                            distribution of letters as opposed dolor.</p>
+                        <span>¿Quién es la Dra. Gloria Elena Lomeli?</span>
+                        <h2>Dra. Gloria Elena Lomeli</h2>
+                        <p>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem has
+                            standard
+                            dummy text ever since the 1500s, when an unknown.
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam tempora eos expedita! Ipsam
+                            similique officia obcaecati ad quod dolore veritatis incidunt. Repellendus repellat aperiam
+                            eius aliquam nobis quis inventore id.
+                        </p>
                     </div>
                     <ul class="content-feature-list list-style style3">
-                        <li><span><i class="ri-check-double-line"></i></span>Stop worrying, we will take care of your
-                            physical problems</li>
-                        <li><span><i class="ri-check-double-line"></i></span>Challenges with dental insurance can take
-                            valuable time</li>
-                        <li><span><i class="ri-check-double-line"></i></span>Dental insurance issues are the most
-                            important that dentists face</li>
+                        <li>
+                            <span><i class="ri-check-double-line"></i></span>
+                            Servicio Profesional
+                        </li>
+                        <li>
+                            <span><i class="ri-check-double-line"></i></span>
+                            Dentista general
+                        </li>
+                        <li>
+                            <span><i class="ri-check-double-line"></i></span>
+                            Blanqueamiento dental
+                        </li>
                     </ul>
                     <div class="about-subtext">
                         <span><img src="assets/img/icons/medical-team.svg" alt="Image"></span>
-                        <h5>Being a good boss and following the rules are the keys to a successful dental team</h5>
+                        <h5>Una sonrisa toma tan solo un momento, pero los recuerdos duran para siempre.</h5>
                     </div>
                 </div>
             </div>
@@ -126,8 +136,8 @@
         <div class="row">
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                 <div class="section-title style1 text-center mb-40">
-                    <span>What's Happening</span>
-                    <h2>We're Providing Best Services To Our Customers</h2>
+                    <span>Nuestros Servicios</span>
+                    <h2>Proporcionando los mejores servicios a nuestros clientes</h2>
                 </div>
             </div>
         </div>
@@ -138,8 +148,8 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth-brush"></i></span>
-                    <h3><a href="service-details.html">Teeth Clean &amp; Crunch</a></h3>
-                    <p>It is a long established fact that reader will be distracted by the readable.</p>
+                    <h3><a href="service-details.html">Limpieza dental</a></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt sint unde sequi nisi possimus fugit.</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -148,8 +158,8 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth"></i></span>
-                    <h3><a href="service-details.html">Tooth Root Canal</a></h3>
-                    <p>It is a long established fact that reader will be distracted by the readable.</p>
+                    <h3><a href="service-details.html">Endodoncia</a></h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui, voluptatum! Reprehenderit quos ullam enim eligendi?.</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -158,8 +168,8 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth-whitening"></i></span>
-                    <h3><a href="service-details.html">Brighten Your Teeth</a></h3>
-                    <p>It is a long established fact that reader will be distracted by the readable.</p>
+                    <h3><a href="service-details.html">Blanqueamiento dental</a></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequuntur quisquam deleniti aperiam soluta delectus?</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -168,8 +178,8 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-dental-care-1"></i></span>
-                    <h3><a href="service-details.html">Complete Teeth Solution</a></h3>
-                    <p>It is a long established fact that reader will be distracted by the readable.</p>
+                    <h3><a href="service-details.html">Solución dental completa</a></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate laudantium explicabo.</p>
                 </div>
             </div>
             <div class="service-card style1">
@@ -178,8 +188,8 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-dental-care"></i></span>
-                    <h3><a href="service-details.html">Teeth Checkup</a></h3>
-                    <p>It is a long established fact that reader will be distracted by the readable.</p>
+                    <h3><a href="service-details.html">Recisión dental</a></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate laudantium explicabo.</p>
                 </div>
             </div>
         </div>
@@ -383,7 +393,7 @@
 </section>
 
 
-<section id="gallery" class="gallery-wrap style1 pb-100">
+<section hidden id="gallery" class="gallery-wrap style1 pb-100">
     <div class="container">
         <div class="row">
             <div class="col-xl-7 col-lg-9">
@@ -444,7 +454,7 @@
 </section>
 
 
-<section id="team" class="team-wrap pb-75">
+<section hidden id="team" class="team-wrap pb-75">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
@@ -819,7 +829,7 @@
 </section>
 
 
-<section id="pricing" class="pricing-wrap style1 pb-75">
+<section hidden id="pricing" class="pricing-wrap style1 pb-75">
     <div class="container">
         <div class="row section-margin align-items-center">
             <div class="col-lg-7">
@@ -1011,7 +1021,7 @@
 </section>
 
 
-<section class="partner-wrap pb-100">
+<section hidden class="partner-wrap pb-100">
     <div class="container">
         <div class="row gx-5 align-items-center">
             <div class="col-xl-7 col-lg-6 col-md-12 col-12 order-xl-1 order-lg-1 order-md-2 order-2">
