@@ -430,65 +430,6 @@
 </section>
 
 
-<section hidden id="gallery" class="gallery-wrap style1 pb-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-7 col-lg-9">
-                <div class="section-title style1 mb-40">
-                    <span>Gallery Exhibition</span>
-                    <h2>Discover Your Dental Repair &amp; Recovery Works For Our Medical Clinic</h2>
-                </div>
-            </div>
-        </div>
-        <div class="gallery-slider-one owl-carousel style2">
-            <div class="gallery-card style1">
-                <div class="gallery-img">
-                    <img src="assets/img/gallery/gallery-1.jpg" alt="Image">
-                    <div class="gallery-info">
-                        <a class="gallery-icon" href="gallery-details.html"><i class="ri-add-line"></i></a>
-                        <h3><a href="gallery-details.html">Free Dental Checkup For Adult</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="gallery-card style1">
-                <div class="gallery-img">
-                    <img src="assets/img/gallery/gallery-2.jpg" alt="Image">
-                    <div class="gallery-info">
-                        <a class="gallery-icon" href="gallery-details.html"><i class="ri-add-line"></i></a>
-                        <h3><a href="gallery-details.html">Best Treatment For A Healthy Life</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="gallery-card style1">
-                <div class="gallery-img">
-                    <img src="assets/img/gallery/gallery-3.jpg" alt="Image">
-                    <div class="gallery-info">
-                        <a class="gallery-icon" href="gallery-details.html"><i class="ri-add-line"></i></a>
-                        <h3><a href="gallery-details.html">Regular Teeth Checkup For Child</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="gallery-card style1">
-                <div class="gallery-img">
-                    <img src="assets/img/gallery/gallery-4.jpg" alt="Image">
-                    <div class="gallery-info">
-                        <a class="gallery-icon" href="gallery-details.html"><i class="ri-add-line"></i></a>
-                        <h3><a href="gallery-details.html">Root Canel Without Any Surgery</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="gallery-card style1">
-                <div class="gallery-img">
-                    <img src="assets/img/gallery/gallery-5.jpg" alt="Image">
-                    <div class="gallery-info">
-                        <a class="gallery-icon" href="gallery-details.html"><i class="ri-add-line"></i></a>
-                        <h3><a href="gallery-details.html">Healthy Teeth Transplant At Low Cost</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 
 <section hidden id="team" class="team-wrap pb-75">
@@ -766,7 +707,7 @@
     </div>
 </section>
 
-<section id="blog" class="blog-wrap style1 pb-100">
+<section id="gallery" class="blog-wrap style1 pb-100">
     <div class="container">
         <div class="row section-margin">
             <div class="col-lg-8 col-md-12">

@@ -43,21 +43,21 @@
                                     <i class="ri-facebook-line"></i>
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a target="_blank" href="https://twitter.com/">
                                     <i class="ri-twitter-line"></i>
                                 </a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a target="_blank" href="https://instagram.com/">
                                     <i class="ri-instagram-line"></i>
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a target="_blank" href="https://linkedin.com/">
                                     <i class="ri-linkedin-line"></i>
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
     <div class="container">
         <div class="header-bottom">
             <nav class="navbar navbar-expand-lg navbar-light header-sticky">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                     <img class="logo-light" src="assets/img/logo.png" alt="Image">
                     <img class="logo-dark" src="assets/img/logo-white.png" alt="Image"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -77,19 +77,19 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto">
-                        <li class="nav-item"><a class="nav-link active" href="#hero">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#service">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#gallery">Gallery</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">Doctor</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="#hero">Inicio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#service">Servicios</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#gallery">Galería</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="#team">Doctor</a></li>
                         <li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link d-lg-none" href="#appointment">Get Free Quote</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li> -->
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
+                        <li class="nav-item"><a class="nav-link d-lg-none" href="#appointment">Agendar cita</a></li>
                     </ul>
                 </div>
                 <div class="other-option md-none">
-                    <a href="#appointment" class="btn style1">Get Free Quote</a>
+                    <a href="#appointment" class="btn style1">Agendar cita</a>
                 </div>
             </nav>
         </div>
