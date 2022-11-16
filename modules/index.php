@@ -148,7 +148,7 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth-brush"></i></span>
-                    <h3><a href="service-details.html">Limpieza dental</a></h3>
+                    <h3><a href="#">Limpieza dental</a></h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt sint unde sequi nisi possimus
                         fugit.</p>
                 </div>
@@ -159,7 +159,7 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth"></i></span>
-                    <h3><a href="service-details.html">Endodoncia</a></h3>
+                    <h3><a href="#">Endodoncia</a></h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui, voluptatum! Reprehenderit quos
                         ullam enim eligendi?.</p>
                 </div>
@@ -170,7 +170,7 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-tooth-whitening"></i></span>
-                    <h3><a href="service-details.html">Blanqueamiento dental</a></h3>
+                    <h3><a href="#">Blanqueamiento dental</a></h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequuntur quisquam deleniti
                         aperiam soluta delectus?</p>
                 </div>
@@ -181,7 +181,7 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-dental-care-1"></i></span>
-                    <h3><a href="service-details.html">Solución dental completa</a></h3>
+                    <h3><a href="#">Solución dental completa</a></h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate
                         laudantium explicabo.</p>
                 </div>
@@ -192,7 +192,7 @@
                 </div>
                 <div class="service-info">
                     <span class="service-icon"><i class="flaticon-dental-care"></i></span>
-                    <h3><a href="service-details.html">Recisión dental</a></h3>
+                    <h3><a href="#">Recisión dental</a></h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, asperiores eum. Ea cupiditate
                         laudantium explicabo.</p>
                 </div>
@@ -865,199 +865,6 @@
         </div>
     </div>
 </section>
-
-
-<section hidden id="pricing" class="pricing-wrap style1 pb-75">
-    <div class="container">
-        <div class="row section-margin align-items-center">
-            <div class="col-lg-7">
-                <div class="section-title style1">
-                    <span>Our Pricing Plan</span>
-                    <h2>Our High Quality Easy Price Without Any Hidden Fees</h2>
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <ul class="nav nav-tabs pricing-tablist" role="tablist">
-                    <li class="nav-item">
-                        <button class="tab-link active" data-bs-toggle="tab" data-bs-target="#tab_10" type="button"
-                            role="tab">Monthly</button>
-                    </li>
-                    <li class="nav-item">
-                        <button class="tab-link " data-bs-toggle="tab" data-bs-target="#tab_11" type="button"
-                            role="tab">Yearly</button>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div class="tab-content pricing-tabcontent">
-            <div class="tab-pane fade show active" id="tab_10" role="tabpanel">
-                <div class="row justify-content-center">
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="pricing-table style1">
-                            <div class="pricing-header">
-                                <h5>Starter</h5>
-                                <div class="pricing-header-tag">
-                                    <h3>$15</h3>
-                                    <p>Annual bills or $15 per month are paid</p>
-                                </div>
-                            </div>
-                            <div class="pricing-features">
-                                <h5>Our Best Features</h5>
-                                <ul class="list-style">
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cancer Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cardiovascular Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Weight Management</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Dental Services</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Women's Health</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Emergency Medicine</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Family Medicine</li>
-                                </ul>
-                            </div>
-                            <div class="purchase-pricing">
-                                <a href="index.html" class="btn style1">Choose This Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="pricing-table style1">
-                            <div class="pricing-header">
-                                <h5>Professional</h5>
-                                <div class="pricing-header-tag">
-                                    <h3>$20</h3>
-                                    <p>Annual bills or $ 20 per month are paid</p>
-                                </div>
-                            </div>
-                            <div class="pricing-features">
-                                <h5>Our Best Features</h5>
-                                <ul class="list-style">
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cancer Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cardiovascular Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Weight Management</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Dental Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Women's Health</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Emergency Medicine</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Family Medicine</li>
-                                </ul>
-                            </div>
-                            <div class="purchase-pricing">
-                                <a href="index.html" class="btn style1">Choose This Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="pricing-table style1">
-                            <div class="pricing-header">
-                                <h5>Institution</h5>
-                                <div class="pricing-header-tag">
-                                    <h3>$45</h3>
-                                    <p>Annual bills or $ 45 per month are paid</p>
-                                </div>
-                            </div>
-                            <div class="pricing-features">
-                                <h5>Our Best Features</h5>
-                                <ul class="list-style">
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cancer Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cardiovascular Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Weight Management</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Dental Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Women's Health</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Emergency Medicine</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Family Medicine</li>
-                                </ul>
-                            </div>
-                            <div class="purchase-pricing">
-                                <a href="index.html" class="btn style1">Choose This Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="tab-pane fade" id="tab_11" role="tabpanel">
-                <div class="row justify-content-center">
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="pricing-table style1">
-                            <div class="pricing-header">
-                                <h5>Starter</h5>
-                                <div class="pricing-header-tag">
-                                    <h3>$125</h3>
-                                    <p>Annual bills or $125 per year are paid</p>
-                                </div>
-                            </div>
-                            <div class="pricing-features">
-                                <h5>Our Best Features</h5>
-                                <ul class="list-style">
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cancer Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cardiovascular Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Weight Management</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Dental Services</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Women's Health</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Emergency Medicine</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Family Medicine</li>
-                                </ul>
-                            </div>
-                            <div class="purchase-pricing">
-                                <a href="index.html" class="btn style1">Choose This Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="pricing-table style1">
-                            <div class="pricing-header">
-                                <h5>Professional</h5>
-                                <div class="pricing-header-tag">
-                                    <h3>$220</h3>
-                                    <p>Annual bills or $220 per year are paid</p>
-                                </div>
-                            </div>
-                            <div class="pricing-features">
-                                <h5>Our Best Features</h5>
-                                <ul class="list-style">
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cancer Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cardiovascular Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Weight Management</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Dental Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Women's Health</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Emergency Medicine</li>
-                                    <li class="unchecked"><i class="ri-check-double-line"></i>Family Medicine</li>
-                                </ul>
-                            </div>
-                            <div class="purchase-pricing">
-                                <a href="index.html" class="btn style1">Choose This Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6">
-                        <div class="pricing-table style1">
-                            <div class="pricing-header">
-                                <h5>Institution</h5>
-                                <div class="pricing-header-tag">
-                                    <h3>$345</h3>
-                                    <p>Annual bills or $345 per year are paid</p>
-                                </div>
-                            </div>
-                            <div class="pricing-features">
-                                <h5>Our Best Features</h5>
-                                <ul class="list-style">
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cancer Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Cardiovascular Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Weight Management</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Dental Services</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Women's Health</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Emergency Medicine</li>
-                                    <li class="checked"><i class="ri-check-double-line"></i>Family Medicine</li>
-                                </ul>
-                            </div>
-                            <div class="purchase-pricing">
-                                <a href="index.html" class="btn style1">Choose This Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 
 <section hidden class="partner-wrap pb-100">
     <div class="container">

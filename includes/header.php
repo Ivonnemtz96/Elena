@@ -5,16 +5,16 @@
                 <div class="col-lg-8 col-md-7">
                     <div class="header-top-left">
                         <ul class="contact-info list-style">
-                            <li><i class="flaticon-phone-call"></i> <a href="tel:02459271449">(+024) 592 71 449</a></li>
+                            <li><i class="flaticon-phone-call"></i> <a href="tel:+526243552666">(+52) 624 355 2666</a></li>
                             <li><i class="flaticon-time"></i>
-                                <p>Sat - Thu: 10:00 am - 7:00 pm</p>
+                                <p>Lun - Sab: 10:00 am - 7:00 pm</p>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5">
                     <div class="header-top-right">
-                        <div class="select-lang">
+                        <!-- <div class="select-lang">
                             <i class="ri-global-line"></i>
                             <div class="navbar-option-item navbar-language dropdown language-option">
                                 <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown"
@@ -36,7 +36,7 @@
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <ul class="social-profile list-style style1">
                             <li>
                                 <a target="_blank" href="https://facebook.com/">
