@@ -409,7 +409,7 @@
                             Ahorra tiempo y dinero con nuestras promociones
                         </li>
                         <li>
-                            <span><i class="ri-check-double-line"></i></span>T
+                            <span><i class="ri-check-double-line"></i></span>
                             Materiales biocompatibles
                         </li>
                         <li>
