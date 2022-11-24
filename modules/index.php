@@ -14,7 +14,7 @@
                             <div class="hero-btn">
                                 <a href="#appointment" class="btn style2">Agendar una cita</a>
                                 <a class="watch-video" data-fancybox=""
-                                    href="https://www.youtube.com/watch?v=DublqkOSBBA">
+                                    href="https://www.youtube.com/watch?v=sYlJ_cZWWr0">
                                     <span class="play-btn">
                                         <i class="flaticon-play-1"></i>
                                     </span>
@@ -39,7 +39,7 @@
                             <div class="hero-btn">
                                 <a href="#appointment" class="btn style2">Agendar cita</a>
                                 <a class="watch-video" data-fancybox=""
-                                    href="https://www.youtube.com/watch?v=DublqkOSBBA">
+                                    href="https://www.youtube.com/watch?v=sYlJ_cZWWr0">
                                     <span class="play-btn">
                                         <i class="flaticon-play-1"></i>
                                     </span>
@@ -62,7 +62,7 @@
                             <div class="hero-btn">
                                 <a href="#appointment" class="btn style2">Agendar cita</a>
                                 <a class="watch-video" data-fancybox=""
-                                    href="https://www.youtube.com/watch?v=DublqkOSBBA">
+                                    href="https://www.youtube.com/watch?v=sYlJ_cZWWr0">
                                     <span class="play-btn">
                                         <i class="flaticon-play-1"></i>
                                     </span>
@@ -917,7 +917,7 @@
             <div class="col-lg-6">
                 <div class="content-title style1 mb-20">
                     <span>¿Tienes alguna duda? Escríbenos</span>
-                    <h2>Información contacto</h2>
+                    <h2>Responderemos todas tus dudas</h2>
                 </div>
                 <form class="form-wrap" id="contactForm">
                     <div class="row">
